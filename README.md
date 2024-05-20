@@ -9,20 +9,11 @@ src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br
 href="https://juanmartinezgarcia.cms.webnode.es/">Portfolio</a><img src="#" width="30">
 </em></p>
 
-[![Twitter:
-JuanMartinez](https://img.shields.io/twitter/follow/juanmartinez14)]((https://twitter.com/juanm
-artinez14_))
-[![Linkedin:
-JuanMartinez](https://img.shields.io/badge/Juan%20Martinez-blue?style=flat-square&logo=L
-inkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthaianebraga
-%2F)](https://www.linkedin.com/in/juan-mart%C3%ADnez-garc%C3%ADa-26a165286/)
-[![GitHub
-JuanMartinez](https://img.shields.io/github/followers/juanmartinez-estech)]((https://github.co
-m/juanmartinez-estech))
+[![Twitter:POLONESFK](https://img.shields.io/twitter/follow/POLONESFK)]((https://twitter.com/POLONESFK))
+[![Linkedin:JulianGamez](https://img.shields.io/badge/Juan%20Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthaianebraga%2F)](https://www.linkedin.com/in/juan-mart%C3%ADnez-garc%C3%ADa-26a165286/)
+[![GitHub:JulianGamez](https://img.shields.io/github/followers/juanmartinez-estech)]((https://github.com/juanmartinez-estech))
 <h3><a href="https://linktr.ee/juan_martinez_garcia">LinkTree</a></h3>
-<img align="left"
-src="https://github.com/juanmartinez-estech/juanmartinez-estech/assets/148443027/77cc2f6
-0-5850-4fd3-923a-67a791822d98" witdh="100" height="100">
+<img align="left"src="https://github.com/juanmartinez-estech/juanmartinez-estech/assets/148443027/77cc2f60-5850-4fd3-923a-67a791822d98" witdh="100" height="100">
 <br>
 <br>
 <br>
