@@ -24,18 +24,15 @@ I'm Julián, a passionate Software Developer from Spain.
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  A little more about me...
 ````javascript
-const thai = {
-pronouns: "he" | "him",
-code: [HTML, CSS, Python, Java],
-tools: [Visual Code Studio, Intelli J, Android Studio],
-architecture: ["microservices", "event-driven", "design system pattern"],
-techCommunities: {![Uploading juan_martinez_garcia.png...]()
+const julian = {
+  pronouns: "he" | "him",
+  code: ["HTML", "CSS", "Python", "Java", "PHP"],
+  tools: ["Visual Studio Code", "IntelliJ", "Android Studio"],
+  interests: ["Microservices", "Event-driven architecture", "Design Patterns"],
+  school: "EsTech",
+  challenge: "I’m currently doing the #100DaysOfCode challenge focused on React and TypeScript!"
+};
 
-school: "EsTech"
-},
-
-challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
 ````
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
