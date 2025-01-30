@@ -19,7 +19,10 @@ I'm Julián, a passionate Software Developer from Spain.
 <h3><a href="https://linktr.ee/juan_martinez_garcia">LinkTree</a></h3>
 <br>
 <img align="left"src="https://github.com/juanmartinez-estech/juanmartinez-estech/assets/148443027/77cc2f60-5850-4fd3-923a-67a791822d98" witdh="100" height="100">
-
+<br>
+<br>
+<br>
+<br>
 <br>
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  A little more about me...
