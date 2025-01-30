@@ -10,6 +10,7 @@ I'm Julián, a passionate Software Developer from Spain.
 🔗 Check out my work:
 
 📂 Portfolio
+<a href="[https://escuelaestech.es/](https://juliangamez.com/)">
 🌎 LinkTree
 🌍 Connect with me:
 
