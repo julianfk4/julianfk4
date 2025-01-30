@@ -1,7 +1,4 @@
 
-
-Aquí tienes tu descripción de GitHub mejorada con una mejor estructura, corrección de enlaces rotos y un diseño más limpio y atractivo:
-
 Hey! 👋
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 I'm Julián, a passionate Software Developer from Spain.
