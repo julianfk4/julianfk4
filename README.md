@@ -9,8 +9,8 @@ I'm Julián, a passionate Software Developer from Spain.
 <p><em>Student at <a href="https://escuelaestech.es/">Escuela EsTech</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 🔗 Check out my work:
 
-📂 Portfolio
-<a href="[https://juliangamez.com/]">
+
+<a href="[https://juliangamez.com/]">📂 Portfolio</a>
 🌎 LinkTree
 🌍 Connect with me:
 
