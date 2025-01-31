@@ -9,8 +9,6 @@ I'm Julián, a passionate Software Developer from Spain.
 📂 Portfolio
 <a href="https://juliangamez.com/">Aqui</a>
 <br>
-🌎 LinkTree
-🌍 Connect with me:
 <br>
 <br>
 <br>
